@@ -1,0 +1,18 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "description": "A small command-line to-do list manager built with plain Node.js.",
+  "type": "module",
+  "main": "task.js",
+  "bin": {
+    "task": "task.js"
+  },
+  "scripts": {
+    "start": "node task.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Sami",
+  "license": "MIT"
+}
